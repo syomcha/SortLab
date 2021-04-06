@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Experiments xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Experiment>
+    <Length>250</Length>
+    <Count>250</Count>
+  </Experiment>
+
+  <Experiment>
+    <Length>500</Length>
+    <Count>500</Count>
+  </Experiment>
+
+  <Experiment>
+   <Length>1000</Length>
+   <Count>1000</Count>
+  </Experiment>
+
+  <Experiment>
+    <Length>1000</Length>
+    <Count>2000</Count>
+  </Experiment>
+
+  <Experiment>
+    <Length>1000</Length>
+   <Count>5000</Count>
+  </Experiment>
+
+  <Experiment>
+    <Length>1000</Length>
+    <Count>10000</Count>
+  </Experiment>
+</Experiments>
